@@ -1,6 +1,7 @@
 #additonal scenorio
 
 def sum(a,b):
+    print("hello")
     return a+b
 
 def mul(a,b):
